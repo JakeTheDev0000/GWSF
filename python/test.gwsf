@@ -1,0 +1,4 @@
+VERSION -S-"0.3.1" ENDL
+NAME -S-"Jacob O'Brien" ENDL
+AGE -I-14 ENDL
+LIKES_APPLES-s-"True" ENDL
